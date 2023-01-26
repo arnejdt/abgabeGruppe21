@@ -4,3 +4,4 @@
 - Data_Cleaning -> Python Skript um bmw_cardata_all zu bereinigen
 - LinearRegression_Test -> Skript um Lineare Regression für bereinigte Daten zu testen
 - output_data_10 -> bereinigtes bmw_cardata_all Datenset
+- DecisionTree -> -> Python Skript um Decision Tree für bereinigte Daten zu testen
